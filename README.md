@@ -1,4 +1,4 @@
-# 📡 📻 📶 TTGO ESP32 LORA OLED Chinse board kit
+# 📡 📶 TTGO ESP32 LORA OLED Chinse board kit
 
 Instructions for setting up the Arduino IDE and sample projects for Chinse TTGO ESP32 LORA OLED development board.
 
